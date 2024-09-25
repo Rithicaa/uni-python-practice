@@ -10,3 +10,6 @@ mycircle.color
 
 def move():
     return 'bonjour'
+
+def jump():
+    return 'jump'
